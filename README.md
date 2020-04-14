@@ -1,3 +1,3 @@
 # splash
-Used to lag your computer/laptop. 
+Used to lag your computer.
 
